@@ -12,12 +12,12 @@ from datetime import datetime, timedelta
 import time
 
 # --- CONFIGURATION HYPEXO SHOP ---
-API_TOKEN = '8713252464:AAHqdm2Su2u9PPxOaJZNSXYGHUVmndM7WZw'
+API_TOKEN = '8924489052:AAGpb992PLfB9jV1uOz083EGAFb2gKfeRSg'
 ADMIN_IDS = [8382445383]
 SHOP_NAME = "HYPEXO SHOP"
 MANAGER_USERNAME = "manager_hypexo"
-INFO_CHANNEL = "https://t.me/hypexxxo"
-BOT_USERNAME = "hypeexoo_bot"  
+INFO_CHANNEL = "https://t.me/hypeexo"
+BOT_USERNAME = "hyepexoo_bot"  
 
 # Direct link to profile image
 MAIN_IMG = "https://ibb.co/9ky8Jcvt"
